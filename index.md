@@ -1,37 +1,99 @@
-## Welcome to GitHub Pages
+<html lang="zh-Hant-TW"><head>
+    <meta charset="utf-8">
+    <title>電腦動畫作品集</title>
+    <script src="http://d3js.org/d3.v6.min.js" charset="utf-8"></script>
+    <style type="text/css">
+      @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@900&display=swap');
 
-You can use the [editor on GitHub](https://github.com/WuIJui0203/ca2021s/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+      h1 {
+        background-color: rgba(255, 255, 0, 0.1);
+        font-family: 'Noto Serif JP', serif;
+        font-size: 24pt;
+        border: solid 1px black;
+        width: 90%;
+        margin: 5px auto;
+        padding: 10px;
+      }
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+      h3 {
+        background-color: rgba(255, 255, 0, 0.1);
+        color: white; 
+        text-shadow: 0 0 6px #FF0000, 0 0 6px #000000;
+        font-family: 'Noto Serif JP', serif;
+        font-size: 18pt;
+        border: solid 1px black;
+        width: 90%;
+        margin: 5px auto;
+        padding: 10px;
+      }
 
-### Markdown
+      div {
+        font-family: 'Noto Serif JP', serif;
+        font-size: 12pt;
+        border: solid 1px black;
+        width: 90%;
+        margin: 5px auto;
+        padding: 10px;
+      }
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+      iframe:hover, div:hover, ul:hover, h1:hover, h3:hover {
+        background-color: rgba(255, 255, 128, 0.1);
+        /* offset-x | offset-y | blur-radius | spread-radius | color */
+        box-shadow: 0px 0px 5px 5px rgba(128, 255, 255, 0.5);
+      }
 
-```markdown
-Syntax highlighted code block
+      iframe {
+        border: 1px black solid;
+      }
+    </style>
+</head>
+<body>
 
-# Header 1
-## Header 2
-### Header 3
+<h1> 109-2 電腦動畫 作品集 </h1>
 
-- Bulleted
-- List
+<div>
+  [檔案] <a href="https://github.com/君の名は/vis2021s/">https://github.com/君の名は/ca2021s/</a>
+  <hr>
+  [網頁] <a href="https://君の名は.github.io/vis2021s/">https://君の名は.github.io/ca2021s/</a>
+</div>
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+<h3> lab 1: VRoid + Mixamo </h3>
+<div>
+  心得: (約50字)
+</div>
+<div>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/kMQCERkTdO0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+</div>
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<h3> lab 2: MMD + Mixamo </h3>
+<div>
+  心得: (約50字)
+</div>
+<div>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/kMQCERkTdO0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+</div>
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/WuIJui0203/ca2021s/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<h3> lab 3: </h3>
+<div>
 
-### Support or Contact
+</div>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+<h3> lab 4: </h3>
+<div>
+
+</div>
+
+
+<h3> lab 5: </h3>
+<div>
+
+</div>
+
+
+
+
+</body></html>
